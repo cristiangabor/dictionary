@@ -12,7 +12,7 @@ to learn a new language by memorizing frazes, words, greetings, etc.
 ** In order to run the program you need to run spaniola.py from the terminal **
 
 
-![Pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
+[Pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
 
 # Demonstration
 
