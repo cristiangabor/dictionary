@@ -1,4 +1,4 @@
 # dictionary
 A Linux tool for helping you learn Spanish
 
-![My Image](cristiangabor.github.com/dictionary/demonstartion/animatied.gif)
+![My Image](https://github.com/cristiangabor/dictionary/blob/master/demonstration/animated.gif)
