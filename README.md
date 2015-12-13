@@ -9,7 +9,7 @@ to learn a new language by memorizing frazes, words, greetings, etc.
   2. PyQt4
   3. Pyaudio 
 
-** In order to run the program you need to run spaniola.py from the terminal **
+**In order to run the program you need to run spaniola.py from the terminal**
 
 
 [Pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
