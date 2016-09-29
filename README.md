@@ -17,3 +17,7 @@ to learn a new language by memorizing frazes, words, greetings, etc.
 # Demonstration
 
 ![My Image](https://github.com/cristiangabor/dictionary/blob/master/demonstration/demo.gif)
+
+### For windows users
+
+I made an installer for windows users. Unzip the Spaniola.zip and run the .exec 
